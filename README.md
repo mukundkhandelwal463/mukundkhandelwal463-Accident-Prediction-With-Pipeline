@@ -60,5 +60,5 @@ Made with ❤️ by Mukund Khandelwal
 
 Project Link: https://github.com/mukundkhandelwal463/mukundkhandelwal463-Accident-Prediction-With-Pipeline/tree/main
 
-Linkedin: 
+Linkedin: https://www.linkedin.com/posts/mukund-khandelwal-6a8663283_machinelearning-datascience-python-activity-7356009127363403779-rFyr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET5diABs7bbZlDnVTGZ4DnPgeKxnEmHsgA
 
