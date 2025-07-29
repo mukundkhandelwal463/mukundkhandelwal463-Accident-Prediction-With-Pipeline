@@ -4,4 +4,4 @@ streamlit
 seaborn
 matplotlib
 sklearn
-imblearn.over_sampling
+imblearn
