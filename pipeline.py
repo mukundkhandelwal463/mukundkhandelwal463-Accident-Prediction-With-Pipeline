@@ -13,8 +13,7 @@ from sklearn.model_selection import train_test_split
 from imblearn.over_sampling import RandomOverSampler
 
 # Load and preprocess data
-data = pd.read_csv(
-    "C:\\Users\\mukun\\OneDrive\\Documents\\python\\sklearn\\sklearn_tutorials\\class 6\\10 pipe dataset.csv")
+data = pd.read_csv("10 pipe dataset.csv")
 data["Time"] = pd.to_datetime(data["Time"], format="%H:%M:%S", errors="coerce")
 data["Hour_of_Day"] = data["Time"].dt.hour
 new_df = data.drop("Time", axis=1)
